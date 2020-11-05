@@ -1,4 +1,4 @@
-HTML Notes:
+# HTML Notes:
 - HTML is a **markup** language. It simply states how something is rendered.
 - HTML is made up of tags. There are 2 types of tags:
 1. The basic tag: `<tagname> content </tagname>`. For example, a p tag with content "Hello, world!" would be `<p> Hello, world! </p>`
@@ -20,7 +20,7 @@ Heading level 1 is the largest while level 6 is the smallest.
 <u> This is underlined </u>
 ```
 
-Attributes!
+## Attributes!
 - You can add attributes to tags. You add attributes as follows:
 `<tagname attribute=value attribute2=value2> content </tagname`
 - One common one is using the href attribute using the a tag to make the content in the a block hyperlinked to a url. 
@@ -28,7 +28,7 @@ Attributes!
 - img tag: this is self closing! add the source attribute to the link of the image. `<img src="https://example.com/logo.png">`
 --- img also has width and height tags. `<img src="https://example.com/logo.png" height=500 width=100>`. If you only specify one, the image will scale, keeping the aspect ratio.
 
-Default structure:
+## Default structure:
 ```html
 <DOCTYPE! html>
 <html> 
