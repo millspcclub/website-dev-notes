@@ -14,9 +14,11 @@ New tags:
    <h6>Heading Level 6</h6>
 ```
 Heading level 1 is the largest while level 6 is the smallest.
+```html
 <strong> This is strong text (default bold) </strong>
 <em> This is emphasized (default italics) </em>
 <u> This is underlined </u>
+```
 
 Attributes!
 - You can add attributes to tags. You add attributes as follows:
