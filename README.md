@@ -7,8 +7,8 @@
 Notes for website dev stuff
 ```
 Select a .md file in the file listing above to view any note.
-## Directory (only works at https://millspcclub.github.io/website-dev-notes/):
-- [Basic HTML notes](html)
-- [Basic CSS notes](css)
-- [Basic git notes](git-basics)
+## Directory:
+- [Basic HTML notes](https://millspcclub.github.io/website-dev-notes/html)
+- [Basic CSS notes](https://millspcclub.github.io/website-dev-notes/css)
+- [Basic git notes](https://millspcclub.github.io/website-dev-notes/git-basics)
 </div>
