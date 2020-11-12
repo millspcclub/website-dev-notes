@@ -6,4 +6,8 @@
 ```
 Notes for website dev stuff
 ```
+## Directory:
+- [Basic HTML notes](html)
+- [Basic CSS notes](css)
+- [Basic git notes](git-basics)
 </div>
