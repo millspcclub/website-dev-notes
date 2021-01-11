@@ -22,7 +22,17 @@ Advantages:
 	- The ssh-url is in the ssh code tab when trying to clone a repository
 	- Looks like: `git@github.com:[repository-namespace]/[repostory-name].git`
 	![](https://github.com/millspcclub/website-dev-notes/raw/main/images/git-clone-ssh.png)
+	- !Don't delete your cloned folder until you want to clone the repository again!
 #### Change existing local clones to use ssh url instead
 - `git remote set-url remote-name ssh-url` in terminal
 	- The remote-name is the name of your remote - should be `origin` but it can be anything
 
+## Changed
+- You have changed your remote name or repository name?
+- It is really easy to put your git back on track
+- Go to your cloned folder, in .git and in config
+	- To change the remote name:
+		- [remote "name"]
+		- in the fetch after /remotes/ put the new name
+		- And in branch make remote = new name
+	- For the url all you have to do is change the repository name in that url
