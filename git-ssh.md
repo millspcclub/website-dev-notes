@@ -10,7 +10,7 @@ Advantages:
   - Choose whether or not to encrypt key with password.
 	- 4096 bit rsa only
 	- Use default location to save or run following command: `ssh-add PATH/TO/PRIVATE/KEY`
-- Copy and paste contents of .pub file to [github SSH settings](https://github.com/settings/keys)
+- Copy and paste contents of .pub file (.ssh/id_rsa.pub by default) to [github SSH settings](https://github.com/settings/keys)
 ## Using ssh instead of https
 - When cloning, select ssh before copying the url
 
