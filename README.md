@@ -11,4 +11,5 @@ Select a .md file in the file listing above to view any note.
 - [Basic HTML notes](https://millspcclub.github.io/website-dev-notes/html)
 - [Basic CSS notes](https://millspcclub.github.io/website-dev-notes/css)
 - [Basic git notes](https://millspcclub.github.io/website-dev-notes/git-basics)
+- [SSH github notes](https://millspcclub.github.io/website-dev-notes/git-ssh)
 </div>
