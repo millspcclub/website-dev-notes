@@ -8,11 +8,6 @@ Notes for website dev stuff
 ```
 Select a .md file in the file listing above to view any note.
 ## Directory:
-- [Basic HTML notes](https://millspcclub.github.io/website-dev-notes/html)
-- [Basic CSS notes](https://millspcclub.github.io/website-dev-notes/css)
-- [Basic git notes](https://millspcclub.github.io/website-dev-notes/git-basics)
-- [SSH github notes](https://millspcclub.github.io/website-dev-notes/git-ssh)
-</div>
 
 - __website\-dev\-notes__
    - [README.md](README.md)
@@ -29,3 +24,5 @@ Select a .md file in the file listing above to view any note.
      - [git\-clone\-ssh.png](images/git-clone-ssh.png)
 
 Generated with `npm install md-file-tree`
+
+</div>
