@@ -5,7 +5,7 @@
 ```
 Notes for website dev stuff
 ```
-Select a .md file in the file listing above or below to view any note.
+Select a .md file in the file listing above or below to view any note. html files must be viewed via https://millspcclub.github.io/website-dev-notes/
 ## Directory:
 
 - __website\-dev\-notes__
