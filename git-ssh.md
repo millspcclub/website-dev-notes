@@ -34,7 +34,7 @@ Advantages:
 		- Put any name for the key
 			- Recommended: Your github username
 		- Click "Add SSH key"
-## Using ssh
+## Using ssh (more explained)
 - `git clone ssh-url` in terminal
 	- The ssh-url is in the ssh code tab
 	- Looks like: `git@github.com:[username][repostory-name].git`
@@ -44,6 +44,7 @@ Advantages:
 	- The remote-name is the name of your remote
 		 - Most common: `origin` but it can be anything you want to call it
 		 - It is in the config file in the .git file
+		 - !Don't change your remote name after that!
 	- Use the same ssh-url
 
 Okay you are done
